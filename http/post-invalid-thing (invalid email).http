@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/things HTTP/1.1
+content-type: application/json
+
+{
+	"name": "root",
+	"email": "invalidemail/lol.org",
+	"length": "3"
+}

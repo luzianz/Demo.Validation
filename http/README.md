@@ -1,0 +1,1 @@
+Using the `rest-client` extension for Visual Studio Code, we can make http requests from the editor.
